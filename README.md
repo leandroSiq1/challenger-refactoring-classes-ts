@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/leandrosiq1">
-    <img alt="Feito por Leandrosiq1" src="https://img.shields.io/badge/FEITO%20PORleandro%siq1-blueviolet">
+    <img alt="Feito por Leandrosiq1" src="https://img.shields.io/badge/FEITO%20POR-Leandrosiq1%20-blueviolet">
   </a>
   <img alt="Licença do Projeto" src="https://img.shields.io/badge/LICENSE-MIT-blueviolet"/>
 <p>
